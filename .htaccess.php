@@ -1,0 +1,1 @@
+/var/www/html/library/public/.htaccess.php
